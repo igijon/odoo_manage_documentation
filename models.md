@@ -4,4 +4,5 @@ Modelos task, project, sprint...
 # Herencia
 Añado bug e improvement como tipo de herencia prototípico
 
-
+# Campos
+Campos relacionales y campos computados
