@@ -2,6 +2,6 @@
 Modelos task, project, sprint...
 
 # Herencia
-Añado bug e improvement
+Añado bug e improvement como tipo de herencia prototípico
 
 
