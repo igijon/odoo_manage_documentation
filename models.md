@@ -4,4 +4,5 @@ Modelos task, project, sprint...
 # Herencia
 Añado bug e improvement como tipo de herencia prototípico
 
-
+# Gestión de excepciones
+Información sobre log y excepciones
